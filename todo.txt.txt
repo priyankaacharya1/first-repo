@@ -1,4 +1,0 @@
-introduction to github.
-finish c-programming assignment.
-prepare a story for the github session. 
-complete the particle.
